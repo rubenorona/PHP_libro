@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(153, 74, 74);
+    /* Granate */
+    color: white;
+}
+
+.lobster-regular {
+    font-family: 'Lobster', cursive;
+    color: orange;
+    /* Color naranja */
+    font-size: 3rem;
+    /* Aumentar tamaño de la fuente */
+}
+
+.form-control, .form-select {
+    background-color: #fdfdfd;
+    color: black;
+}
+
+label {
+    font-weight: bold;
+}
